@@ -10,5 +10,5 @@ steps:
               ls
             fi
             ls
-            chmod u+x helloworld.sh
-            sh helloworld.sh
+            #chmod u+x helloworld.sh
+            sh hello-world.sh
