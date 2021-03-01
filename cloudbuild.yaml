@@ -10,5 +10,6 @@ steps:
               ls
             fi
             ls
+            echo $BRANCH_NAME
             #chmod u+x helloworld.sh
             sh hello-world.sh
