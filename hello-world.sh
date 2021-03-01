@@ -1,2 +1,2 @@
-date
-echo 'Hello World!'
+echo "Today'date is " + date
+echo 'Hello World!' 
