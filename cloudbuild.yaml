@@ -1,0 +1,3 @@
+steps:
+    - name: "Sample Build"
+      entrypoint: "helloworld.sh"
