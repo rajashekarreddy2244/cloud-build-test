@@ -9,7 +9,7 @@ steps:
               cd environments/$BRANCH_NAME
               ls
             fi
-            ls
+            ls -ltr
             echo $BRANCH_NAME
             #chmod u+x helloworld.sh
             sh hello-world.sh
