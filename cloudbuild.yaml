@@ -1,3 +1,2 @@
 steps:
-    - name: 'cloud-build-test'
       args: ['helloworld.sh']
