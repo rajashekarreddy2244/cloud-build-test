@@ -9,4 +9,6 @@ steps:
               cd environments/$BRANCH_NAME
               ls
             fi
-            ./helloworld.sh
+            ls
+            chmod u+x helloworld.sh
+            sh helloworld.sh
